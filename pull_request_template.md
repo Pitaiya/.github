@@ -1,4 +1,4 @@
-## Descrição
+## Objetivo
 
 <!-- Descreva o que este Pull Request altera e por que a mudança é necessária. -->
 
